@@ -6,4 +6,4 @@ eureka:
 
 spring:
   application:
-    name: CATEGORY_MS
+    name: CATEGORY-MS
